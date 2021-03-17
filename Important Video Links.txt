@@ -1,0 +1,2 @@
+1. Arduino Security Panel System with using Keypad and LCD Display - https://www.youtube.com/watch?v=GteMrHri6r8
+2. How to Set Up and Program an LCD on the Arduino - https://www.youtube.com/watch?v=Mr9FQKcrGpA
